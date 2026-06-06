@@ -1,0 +1,12 @@
+# Ignorar entorno virtual de Python
+password-manager-gui/venv/
+password-manager-gui/__pycache__/
+
+# Ignorar compilados de Java
+password-manager-backend/target/
+password-manager-backend/.mvn/
+
+# Ignorar configuraciones locales de IDEs y variables
+.vscode/
+.idea/
+.env
